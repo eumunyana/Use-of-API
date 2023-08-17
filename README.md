@@ -1,4 +1,7 @@
 # Use-of-API
 A small application that incorporates the use of APIs.
 
-This is a small website that incorporates a google map API that will help the user to search restaurants nearby. I used HTML to structure the website, CSS to style the website and JavaScript to build the functionality of the website and lastly I code a python program to run the API.
+This small website incorporates a Google Map API (Map JavaScript API) to help users search for nearby restaurants. I used HTML to structure the website, CSS to style the website, JavaScript to build the website's functionality, and coded a Python program to run the API.
+
+The API used: 
+https://console.cloud.google.com/apis/library/maps-backend.googleapis.com?project=helpful-weft-396121
